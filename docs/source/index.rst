@@ -52,5 +52,5 @@ Requirements for the attendees
 
 * A computer running Windows
 
-  * An extratable version of GRASS 8 for Windows will be provided.
+  * An extractable version of GRASS 8 for Windows will be provided.
   * Those running Linux or macOS will have to install GRASS 8 themselves.
