@@ -54,7 +54,7 @@ html_theme = "press"
 
 html_theme_options = {
     "external_links": [
-        ("GitHub", "https://github.com/HuidaeCho/grass-deforestationr-workshop")
+        ("GitHub", "https://github.com/HuidaeCho/grass-deforestation-workshop")
     ]
 }
 
